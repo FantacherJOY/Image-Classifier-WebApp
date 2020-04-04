@@ -3,7 +3,7 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-Werkzeug==0.15.
+Werkzeug==1.0.1
 tensorflow>=2.1.0
 keras>=2.3.1
 keras-preprocessing>=1.1.0
