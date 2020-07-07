@@ -47,7 +47,7 @@ def rmb():
     # for f in filelist:
     #     os.remove(f)
         
-    # filelist = [ f for f in os.listdir(path) if f.endswith(".jpg",".png") ]
+    # filelist = [ f for f in os.listdir(path) if f.endswith(".jpg",".png",".webp") ]
     # for f in filelist:
     #     os.remove(os.path.join(path, f))
     for root, dirs, files in os.walk(path):
